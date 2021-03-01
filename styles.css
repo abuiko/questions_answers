@@ -109,6 +109,6 @@ button {
     display: inline;
 }
 
-.plus-icon.show-text {
+.plus-icon.hide-text {
     display: none;
 }
